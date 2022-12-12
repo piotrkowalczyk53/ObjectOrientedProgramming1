@@ -1,5 +1,6 @@
 .*/
 build/
+documentation/
 *.sln
 *.aps
 *.vcxproj*
