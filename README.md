@@ -3,4 +3,5 @@ Tasks for subject "Programowanie Obiektowe I" (Object Oriented Programming I) in
 Tasks consisted of writing code so that provided main.cpp would compile and return expected output
 
 # Useful files
-CmakeLists.txt and Doxygen.txt files can be used to build and generate documentation respectfully with CMake and Doxygen
+CmakeLists.txt can be used to build each task with CMake & Make <br>
+Doxygen.txt can be used to generate HTML documentation with Doxygen
