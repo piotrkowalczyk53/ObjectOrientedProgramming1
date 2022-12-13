@@ -1,6 +1,10 @@
 .*/
-build/
-documentation/
 *.sln
 *.aps
 *.vcxproj*
+
+
+build/
+documentation/
+*/CMakeLists.txt
+*/Doxygen.txt
